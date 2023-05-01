@@ -1,0 +1,17 @@
+body{
+    font-family:'Montserrat','S-CoreDream-3Light','sans-serif';
+    font-size: 1rem;
+    color: #222;
+    line-height: 2;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    color: #222;
+    text-decoration: none;
+}
+li, dl, dt, dd, ul, ol{
+    list-style: none;
+}

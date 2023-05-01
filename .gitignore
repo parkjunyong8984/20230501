@@ -1,0 +1,8 @@
+.vscode/
+img/
+*.psd
+*.pdf
+*.ai
+*.txt
+scss/
+*.scss
